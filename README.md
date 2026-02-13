@@ -1,6 +1,52 @@
-# 💫 About Me:
-# 👋 Hi there, I'm a Full Stack Developer!<br><br>🚀 **Full Stack Developer | Problem Solver | DSA Enthusiast**<br><br>I love building scalable web applications and solving complex problems using efficient algorithms and clean code. Passionate about learning new technologies and improving system design skills every day.<br><br>---<br><br>## 💻 Tech Stack & Tools<br><br>### 🌐 **Frontend & Backend**<br><br>⚡ **MERN Stack**<br><br>* 🟢 MongoDB<br>* ⚙️ Express.js<br>* ⚛️ React.js<br>* 🟩 Node.js<br><br>### 🧠 **Programming & Problem Solving**<br><br>* 💻 C++<br>* 🐍 Python<br>* 🧩 Data Structures & Algorithms (DSA)<br><br>### 🛠️ **Tools & Technologies**<br><br>* 🔧 Git & GitHub<br>* 🧑‍💻 VS Code<br>* 📬 Postman<br>* 🐳 Docker<br>* 🐧 Linux<br><br>---<br><br>## 🔥 What I Do<br><br>✅ Build full-stack web applications<br>✅ Solve DSA problems regularly<br>✅ Write clean and optimized code<br>✅ Explore backend architecture & system design<br><br>---<br><br>## 📈 Currently Working On<br><br>* 🚀 Improving problem-solving skills<br>* ⚡ Building scalable MERN applications<br>* 🐳 Learning containerization & deployment<br><br>---<br><br>⭐ *Always open to collaboration and learning new things!*<br>
+## 💫 About Me
 
+👋 Hi there, I'm a Full Stack Developer!
+
+🚀 **Full Stack Developer | Problem Solver | DSA Enthusiast**
+
+I love building scalable web applications and solving complex problems using efficient algorithms and clean code. Passionate about learning new technologies and improving system design skills every day.
+
+---
+
+### 💻 Tech Stack & Tools
+
+#### 🌐 Frontend & Backend
+⚡ **MERN Stack**
+- 🟢 MongoDB
+- ⚙️ Express.js
+- ⚛️ React.js
+- 🟩 Node.js
+
+#### 🧠 Programming & Problem Solving
+- 💻 C++
+- 🐍 Python
+- 🧩 Data Structures & Algorithms (DSA)
+
+#### 🛠️ Tools & Technologies
+- 🔧 Git & GitHub
+- 🧑‍💻 VS Code
+- 📬 Postman
+- 🐳 Docker
+- 🐧 Linux
+
+---
+
+### 🔥 What I Do
+✅ Build full-stack web applications  
+✅ Solve DSA problems regularly  
+✅ Write clean and optimized code  
+✅ Explore backend architecture & system design  
+
+---
+
+### 📈 Currently Working On
+- 🚀 Improving problem-solving skills
+- ⚡ Building scalable MERN applications
+- 🐳 Learning containerization & deployment
+
+---
+
+⭐ *Always open to collaboration and learning new things!*
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/girish-ranjan-b00717288/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/GIRI28012004) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:girishranjan71@gmail.com) 
